@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SalmaAshraff
 - 👀 I’m interested in UI/UX Design and Web Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Front-end Development
 - 📫 How to reach me: salma__ashraf@hotmail.com
